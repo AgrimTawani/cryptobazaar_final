@@ -38,7 +38,7 @@ export default function ContactUs() {
       <div className="grid md:grid-cols-2 gap-8">
         <div>
           <h2 className="text-2xl font-semibold mb-4 text-gray-800 dark:text-gray-200">Get in Touch</h2>
-          <p className="mb-6 text-gray-700 dark:text-gray-300">We're here to help! Reach out to us for any questions, concerns, or support needs.</p>
+          <p className="mb-6 text-gray-700 dark:text-gray-300">We&apos;re here to help! Reach out to us for any questions, concerns, or support needs.</p>
           
           <div className="space-y-6">
             <div className="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg">

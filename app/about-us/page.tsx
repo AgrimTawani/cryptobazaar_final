@@ -38,7 +38,7 @@ export default function AboutUs() {
           </div>
           <div className="p-4 bg-purple-50 dark:bg-purple-900/20 rounded-lg">
             <h3 className="font-semibold mb-2">Security</h3>
-            <p className="text-sm">Protecting our users' assets and data with the highest standards.</p>
+            <p className="text-sm">Protecting our users&apos; assets and data with the highest standards.</p>
           </div>
           <div className="p-4 bg-yellow-50 dark:bg-yellow-900/20 rounded-lg">
             <h3 className="font-semibold mb-2">Support</h3>

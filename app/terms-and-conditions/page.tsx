@@ -9,9 +9,8 @@ export default function TermsAndConditions() {
         <p className="text-sm font-semibold text-blue-900 dark:text-blue-100"><strong>Last Updated:</strong> September 23, 2025</p>
       </div>
 
-      <div className="prose max-w-none text-gray-700 dark:text-gray-300 space-y-6">
-        <p className="text-lg leading-relaxed">
-          Welcome to CryptoBazaar. These Terms & Conditions ("Terms") govern your access and use of our peer-to-peer (P2P) cryptocurrency exchange platform ("Platform", "Service", "we", "us", "our"). By registering or using the Service, you agree to these Terms. If you do not agree, please do not use the Service.
+      <div className="prose max-w-none text-gray-700 dark:text-gray-300 space-y-6">        <p className="text-lg leading-relaxed">
+          Welcome to CryptoBazaar. These Terms &amp; Conditions (&quot;Terms&quot;) govern your access and use of our peer-to-peer (P2P) cryptocurrency exchange platform (&quot;Platform&quot;, &quot;Service&quot;, &quot;we&quot;, &quot;us&quot;, &quot;our&quot;). By registering or using the Service, you agree to these Terms. If you do not agree, please do not use the Service.
         </p>
 
         <h2 className="text-2xl font-semibold mb-4 text-gray-800 dark:text-gray-200">1. Definitions</h2>
@@ -28,7 +27,7 @@ export default function TermsAndConditions() {
         <ul className="list-disc ml-6 space-y-2">
           <li>You must be at least 18 years old to use the Service.</li>
           <li>You must comply with all laws applicable to cryptocurrency trading in your jurisdiction.</li>
-          <li>You agree to complete KYC (Know Your Customer) verification as required by law and by CryptoBazaar's policies.</li>
+          <li>You agree to complete KYC (Know Your Customer) verification as required by law and by CryptoBazaar&apos;s policies.</li>
         </ul>
 
         <h2 className="text-2xl font-semibold mb-4 text-gray-800 dark:text-gray-200">3. Account & Security</h2>
@@ -120,7 +119,7 @@ export default function TermsAndConditions() {
         <h2 className="text-2xl font-semibold mb-4 text-gray-800 dark:text-gray-200">17. Contact Information</h2>
         <div className="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg mb-6">
           <p className="mb-2">For support or questions:</p>
-          <p className="mb-2"><strong>Email:</strong> <a href="mailto:agrimtawani139@gmail.com" className="text-blue-600 hover:text-blue-800">support@cryptobazaar.com</a></p>
+          <p className="mb-2"><strong>Email:</strong> <a href="mailto:agrimtawani139@gmail.com                                                                                          " className="text-blue-600 hover:text-blue-800">support@cryptobazaar.com</a></p>
           <p className="mb-2"><strong>Phone:</strong> +91-8104048639</p>
           <p><strong>Address:</strong> CryptoBazaar Technologies Pvt. Ltd., 123 Crypto Street, Mumbai, Maharashtra 400001, India</p>
         </div>
